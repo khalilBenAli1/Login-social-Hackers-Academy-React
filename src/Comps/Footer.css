@@ -1,0 +1,11 @@
+.footer{
+    background-color: #11ffbb;
+    text-align: center;
+    height: auto;
+    padding: 15px;
+    color: #074397;
+    font-family: 'Lato',Helvetica,Arial,Lucida,sans-serif;
+}
+a{
+    text-decoration: none;
+}
